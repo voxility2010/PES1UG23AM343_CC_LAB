@@ -1,4 +1,4 @@
-# [cite_start]Cloud Computing LAB-4 [cite: 190]
+# Cloud Computing Lab-4: Docker Networking & RabbitMQ Chat Application
 
 ## 🧑‍🎓 Student Details
 * **Name:** Vardha Kathura 
