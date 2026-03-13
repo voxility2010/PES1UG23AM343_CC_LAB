@@ -167,6 +167,6 @@ Through this lab we learned:
 ## Author
 
 **PES1UG23AM343**\
-Computer Science Engineering\
+Computer Science Engineering (Artificial Intelligence and Machine Learning)\
 Cloud Computing Lab -- Kubernetes
 
