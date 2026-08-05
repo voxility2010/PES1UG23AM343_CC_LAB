@@ -1,4 +1,4 @@
-# [cite_start]Cloud Computing Lab-3: Spam Detection using ML (Dockerized) [cite: 1, 84]
+# Cloud Computing Lab-3: Spam Detection using ML (Dockerized) [cite: 1, 84]
 
 ## 📌 Overview
 [cite_start]This project is a Machine Learning-based Spam Detection web application designed to classify messages as "SPAM" or "NOT SPAM"[cite: 84, 87, 92]. [cite_start]The application is built using Python and is fully containerized using Docker to ensure consistent deployment[cite: 46, 62, 84].
